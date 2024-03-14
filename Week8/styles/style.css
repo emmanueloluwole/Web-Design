@@ -1,0 +1,30 @@
+main{
+    margin: 22px;
+}
+input{
+    
+    margin-bottom: 5em;
+    width: 120px;
+
+}
+/* input[type="radio"]{
+    width: 10px;
+}
+input[type="checkbox"]{
+    width: 15px;
+} */
+#button{
+    margin-left: 138px;
+
+}
+#button, #reset{
+    margin-top: 5em;
+    width: 8em;
+    background-color: orange;
+    border: 2px solid black;
+    font-size: 20px;
+
+}
+.required{
+
+}
